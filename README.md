@@ -4,7 +4,7 @@
 >
 > These are essentially a bunch of memory.md files that were updated as I kept using claude for F Prime development. This repository exists so that I may have the memory.md files anywhere.
 >
-> The agent memories are also claude-generated, with some degree of tuning based on performance and output. As soon as I liked how claude did a thing, I asked to remember it for future use.
+> The agent memories are also claude-generated, with some degree of tuning based on performance and output. As soon as I liked how claude did a thing, I asked to remember it for future use. So some cool meta-claude-agent-agent-coding is happening!
 
 
 ## Who Am I?
