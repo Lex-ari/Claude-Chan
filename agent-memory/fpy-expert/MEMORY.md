@@ -1,0 +1,5 @@
+- [FPrime Basics](fprime_basics.md) — What F Prime is and how Fpy integrates with it
+- [Fpy Compiler Pipeline](fpy_architecture_reference.md) — 7-stage compilation: parsing → 14 semantic passes → desugaring → codegen → serialization
+- [Fpy Bytecode System](fpy_bytecode_system.md) — Binary format, all 76 directives (opcodes 1-76), stack VM model with frame pointers
+- [FpySequencer Runtime](fpysequencer_runtime.md) — C++ state machine, directive dispatch, command/telemetry integration
+- [Fpy Key Files](fpy_key_files.md) — File locations: compiler (9312 lines Python), runtime (C++ in Svc/FpySequencer)

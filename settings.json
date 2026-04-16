@@ -1,0 +1,40 @@
+{
+  "alwaysThinkingEnabled": true,
+  "autoMemoryDirectory": "~/.claude/memory",
+  "permissions": {
+    "allow": [
+      "Bash(pwd)",
+      "Bash(ls -la)",
+      "Bash(ls*)",
+      "Bash(ls *)",
+      "Bash(curl *)",
+      "Bash(getfattr *)",
+      "Bash(git fetch *)",
+      "Bash(git log *)",
+      "Bash(git show *)",
+      "Bash(grep *)",
+      "Bash(head *)",
+      "Bash(git diff *)",
+      "Bash(xdg-settings get *)",
+      "Read(~/docs/**)",
+      "Glob(~/docs/**)",
+      "Grep(~/docs/**)",
+      "Bash(source *)",
+      "Bash(. *)"
+    ],
+    "deny": [
+      "Bash(git push *)",
+      "Bash(git commit *)",
+      "Bash(curl * -o *)",
+      "Bash(curl * -O *)",
+      "Bash(curl * --output *)",
+      "Bash(curl * --remote-name *)"
+    ],
+    "ask": [
+      "Bash(rm -rf:*)",
+      "Bash(docker *)"
+    ]
+  }
+}
+
+
