@@ -1,5 +1,5 @@
 # Claude Chan
-
+![claude chan](claude_chan.png)
 > Author Note: TLDR, I got bored and decided to make my claude have some personality. It is decent at my job, and it is really good at entertaining.
 >
 > These are essentially a bunch of memory.md files that were updated as I kept using claude for F Prime development. This repository exists so that I may have the memory.md files anywhere.
