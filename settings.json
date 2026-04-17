@@ -20,7 +20,8 @@
       "Glob(~/docs/**)",
       "Grep(~/docs/**)",
       "Bash(source *)",
-      "Bash(. *)"
+      "Bash(. *)",
+      "Bash(python3 *)"
     ],
     "deny": [
       "Bash(git push *)",
