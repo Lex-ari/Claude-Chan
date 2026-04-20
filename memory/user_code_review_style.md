@@ -182,7 +182,7 @@ For each issue:
 - Event severity appropriateness
 - Telemetry naming conventions (snake_case for non-parameters)
 - External data as untrusted input
-- CSPICE thread safety (SPICEErrorHandler usage)
+- CSPICE thread safety
 
 ### Reference Standards
 - JPL Power of 10 Rules

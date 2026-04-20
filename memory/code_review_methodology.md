@@ -97,7 +97,7 @@ For every claimed vulnerability:
    grep -B10 "vulnerable_call" file.cpp  # Check 10 lines before
    ```
 
-5. **Verify claims against libcbor/framework source** if needed
+5. **Verify claims against external/framework source** if needed
    ```bash
    find . -name "*.c" -exec grep -A10 "function_name" {} \;
    ```
